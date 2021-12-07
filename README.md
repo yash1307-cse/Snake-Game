@@ -3,7 +3,7 @@ Simple Snake game using Java Swing. Snake can eat fruits and if he will touch hi
 
 
 
-# Screenshots
+## Screenshots
 
 ![Gameplay](https://github.com/yash1307-cse/Snake-Game/blob/master/preview/snake_game.png)
 
