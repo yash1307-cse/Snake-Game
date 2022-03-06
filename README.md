@@ -1,7 +1,9 @@
 # Snake Game
 Simple Snake game using Java Swing. Snake can eat fruits and if he will touch his own body the game will over and player can restart the game. 
 
-
+## Tech Stack
+- Java Swing
+- Intellij IDEA
 
 ## Screenshots
 
